@@ -37,6 +37,8 @@ public class PositionalListElementsBackwardIterator<T> implements Iterator {
 		theList.remove(recent);
 		recent = null;
 	}
+	
+	//
 
 }
 
